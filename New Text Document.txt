@@ -1,0 +1,3 @@
+When using a Dialog Model, sample utterances for intents cannot contain only slots
+
+A sample utterance references a slot that is not defined in the intent.
